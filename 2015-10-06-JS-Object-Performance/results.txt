@@ -1,0 +1,204 @@
+type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3409.09 | for..in/milli:2941.18 | sample-key:106804615.37430778
+type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4054.05 | for..in/milli:2884.62 | sample-key:287315828.17468697
+type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2830.19 | sample-key:7548722.071695093
+type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:3260.87 | sample-key:242582274.3092146
+type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.05s | enum/milli:2941.18 | for..in/milli:2380.95 | sample-key:344533168.6078854
+--
+type:int | key-length:null | key-prefix:"" | unique-keys:149998 | Object.keys:0.12s | enum/milli:1271.17 | for..in/milli:802.13 | sample-key:1287446876
+type:int | key-length:null | key-prefix:"" | unique-keys:149995 | Object.keys:0.12s | enum/milli:1249.96 | for..in/milli:681.80 | sample-key:3544242922
+type:int | key-length:null | key-prefix:"" | unique-keys:149997 | Object.keys:0.12s | enum/milli:1219.49 | for..in/milli:810.79 | sample-key:4078075813
+type:int | key-length:null | key-prefix:"" | unique-keys:149996 | Object.keys:0.13s | enum/milli:1181.07 | for..in/milli:781.23 | sample-key:1508321754
+type:int | key-length:null | key-prefix:"" | unique-keys:149996 | Object.keys:0.14s | enum/milli:1111.08 | for..in/milli:773.18 | sample-key:529264068
+--
+type:intstr | key-length:7 | key-prefix:"" | unique-keys:147445 | Object.keys:0.06s | enum/milli:2632.95 | for..in/milli:1445.54 | sample-key:"2057327"
+type:intstr | key-length:7 | key-prefix:"" | unique-keys:147490 | Object.keys:0.06s | enum/milli:2417.87 | for..in/milli:1657.19 | sample-key:"3833664"
+type:intstr | key-length:7 | key-prefix:"" | unique-keys:147548 | Object.keys:0.05s | enum/milli:2732.37 | for..in/milli:1553.14 | sample-key:"3917692"
+type:intstr | key-length:7 | key-prefix:"" | unique-keys:147535 | Object.keys:0.06s | enum/milli:2634.55 | for..in/milli:1490.25 | sample-key:"2982354"
+type:intstr | key-length:7 | key-prefix:"" | unique-keys:147477 | Object.keys:0.06s | enum/milli:2499.61 | for..in/milli:1474.77 | sample-key:"2139690"
+--
+type:intstr | key-length:8 | key-prefix:"" | unique-keys:149747 | Object.keys:0.06s | enum/milli:2581.84 | for..in/milli:1302.15 | sample-key:"34895294"
+type:intstr | key-length:8 | key-prefix:"" | unique-keys:149746 | Object.keys:0.06s | enum/milli:2538.07 | for..in/milli:1279.88 | sample-key:"17787250"
+type:intstr | key-length:8 | key-prefix:"" | unique-keys:149733 | Object.keys:0.06s | enum/milli:2537.85 | for..in/milli:1439.74 | sample-key:"17551378"
+type:intstr | key-length:8 | key-prefix:"" | unique-keys:149746 | Object.keys:0.05s | enum/milli:2994.92 | for..in/milli:1337.02 | sample-key:"96668024"
+type:intstr | key-length:8 | key-prefix:"" | unique-keys:149729 | Object.keys:0.05s | enum/milli:2772.76 | for..in/milli:1217.31 | sample-key:"23049804"
+--
+type:intstr | key-length:9 | key-prefix:"" | unique-keys:149976 | Object.keys:0.06s | enum/milli:2631.16 | for..in/milli:1260.30 | sample-key:"582291319"
+type:intstr | key-length:9 | key-prefix:"" | unique-keys:149961 | Object.keys:0.06s | enum/milli:2726.56 | for..in/milli:1249.67 | sample-key:"146220694"
+type:intstr | key-length:9 | key-prefix:"" | unique-keys:149979 | Object.keys:0.06s | enum/milli:2542.02 | for..in/milli:1110.96 | sample-key:"398130283"
+type:intstr | key-length:9 | key-prefix:"" | unique-keys:149973 | Object.keys:0.07s | enum/milli:2205.49 | for..in/milli:1071.24 | sample-key:"176972290"
+type:intstr | key-length:9 | key-prefix:"" | unique-keys:149973 | Object.keys:0.06s | enum/milli:2678.09 | for..in/milli:1270.96 | sample-key:"810899208"
+--
+type:intstr | key-length:10 | key-prefix:"" | unique-keys:149997 | Object.keys:28.79s | enum/milli:5.21 | for..in/milli:13.06 | sample-key:"3671107085"
+type:intstr | key-length:10 | key-prefix:"" | unique-keys:149998 | Object.keys:16.63s | enum/milli:9.02 | for..in/milli:9.01 | sample-key:"3588941433"
+type:intstr | key-length:10 | key-prefix:"" | unique-keys:149997 | Object.keys:23.38s | enum/milli:6.42 | for..in/milli:6.03 | sample-key:"7616914217"
+type:intstr | key-length:10 | key-prefix:"" | unique-keys:149996 | Object.keys:16.85s | enum/milli:8.90 | for..in/milli:8.81 | sample-key:"2124765641"
+type:intstr | key-length:10 | key-prefix:"" | unique-keys:149998 | Object.keys:17.24s | enum/milli:8.70 | for..in/milli:8.88 | sample-key:"3172453786"
+--
+type:intstr | key-length:11 | key-prefix:"" | unique-keys:149999 | Object.keys:0.04s | enum/milli:3571.40 | for..in/milli:2941.16 | sample-key:"14928023351"
+type:intstr | key-length:11 | key-prefix:"" | unique-keys:149994 | Object.keys:0.04s | enum/milli:3947.21 | for..in/milli:3260.74 | sample-key:"12775911521"
+type:intstr | key-length:11 | key-prefix:"" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4687.44 | for..in/milli:3124.96 | sample-key:"51064033551"
+type:intstr | key-length:11 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:3333.33 | sample-key:"23543970912"
+type:intstr | key-length:11 | key-prefix:"" | unique-keys:149996 | Object.keys:0.03s | enum/milli:4838.58 | for..in/milli:3260.78 | sample-key:"29659907772"
+--
+type:intstr | key-length:12 | key-prefix:"" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5172.38 | for..in/milli:3333.31 | sample-key:"915329782915"
+type:intstr | key-length:12 | key-prefix:"" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5172.31 | for..in/milli:3488.30 | sample-key:"790757813790"
+type:intstr | key-length:12 | key-prefix:"" | unique-keys:149999 | Object.keys:0.04s | enum/milli:4054.03 | for..in/milli:2999.98 | sample-key:"239523313523"
+type:intstr | key-length:12 | key-prefix:"" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4838.65 | for..in/milli:3333.29 | sample-key:"585413213585"
+type:intstr | key-length:12 | key-prefix:"" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4545.42 | for..in/milli:3124.98 | sample-key:"306506667130"
+--
+type:intstr | key-length:13 | key-prefix:"" | unique-keys:149995 | Object.keys:0.04s | enum/milli:4166.53 | for..in/milli:3191.38 | sample-key:"1396490686139"
+type:intstr | key-length:13 | key-prefix:"" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5555.52 | for..in/milli:2727.25 | sample-key:"4046398019404"
+type:intstr | key-length:13 | key-prefix:"" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4838.68 | for..in/milli:2884.60 | sample-key:"1359494695135"
+type:intstr | key-length:13 | key-prefix:"" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4687.41 | for..in/milli:2941.12 | sample-key:"1561287728156"
+type:intstr | key-length:13 | key-prefix:"" | unique-keys:149997 | Object.keys:0.09s | enum/milli:1704.51 | for..in/milli:2777.72 | sample-key:"1069167583106"
+--
+type:intstr | key-length:14 | key-prefix:"" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4999.90 | for..in/milli:2999.94 | sample-key:"37181422923718"
+type:intstr | key-length:14 | key-prefix:"" | unique-keys:149998 | Object.keys:0.04s | enum/milli:4285.66 | for..in/milli:3124.96 | sample-key:"19083454211908"
+type:intstr | key-length:14 | key-prefix:"" | unique-keys:149995 | Object.keys:0.03s | enum/milli:4999.83 | for..in/milli:3191.38 | sample-key:"33392100283339"
+type:intstr | key-length:14 | key-prefix:"" | unique-keys:149997 | Object.keys:0.04s | enum/milli:3846.08 | for..in/milli:2727.22 | sample-key:"11116475371111"
+type:intstr | key-length:14 | key-prefix:"" | unique-keys:149998 | Object.keys:0.03s | enum/milli:5172.34 | for..in/milli:3061.18 | sample-key:"13933359061393"
+--
+type:intstr | key-length:7 | key-prefix:"k" | unique-keys:127768 | Object.keys:0.03s | enum/milli:5110.72 | for..in/milli:3453.19 | sample-key:"k380229"
+type:intstr | key-length:7 | key-prefix:"k" | unique-keys:127680 | Object.keys:0.03s | enum/milli:4256.00 | for..in/milli:2837.33 | sample-key:"k288966"
+type:intstr | key-length:7 | key-prefix:"k" | unique-keys:127579 | Object.keys:0.03s | enum/milli:4399.28 | for..in/milli:2199.64 | sample-key:"k224540"
+type:intstr | key-length:7 | key-prefix:"k" | unique-keys:127633 | Object.keys:0.03s | enum/milli:4558.32 | for..in/milli:2552.66 | sample-key:"k296155"
+type:intstr | key-length:7 | key-prefix:"k" | unique-keys:127749 | Object.keys:0.03s | enum/milli:3757.32 | for..in/milli:2777.15 | sample-key:"k115740"
+--
+type:intstr | key-length:8 | key-prefix:"k" | unique-keys:147520 | Object.keys:0.03s | enum/milli:4917.33 | for..in/milli:3138.72 | sample-key:"k4165117"
+type:intstr | key-length:8 | key-prefix:"k" | unique-keys:147498 | Object.keys:0.03s | enum/milli:4758.00 | for..in/milli:3072.88 | sample-key:"k1828868"
+type:intstr | key-length:8 | key-prefix:"k" | unique-keys:147545 | Object.keys:0.04s | enum/milli:3598.66 | for..in/milli:3073.85 | sample-key:"k2935742"
+type:intstr | key-length:8 | key-prefix:"k" | unique-keys:147496 | Object.keys:0.04s | enum/milli:4214.17 | for..in/milli:3072.83 | sample-key:"k4076342"
+type:intstr | key-length:8 | key-prefix:"k" | unique-keys:147500 | Object.keys:0.03s | enum/milli:4338.24 | for..in/milli:2892.16 | sample-key:"k1889104"
+--
+type:intstr | key-length:9 | key-prefix:"k" | unique-keys:149746 | Object.keys:0.03s | enum/milli:4537.76 | for..in/milli:3056.04 | sample-key:"k41194285"
+type:intstr | key-length:9 | key-prefix:"k" | unique-keys:149738 | Object.keys:0.03s | enum/milli:4991.27 | for..in/milli:3119.54 | sample-key:"k40053795"
+type:intstr | key-length:9 | key-prefix:"k" | unique-keys:149765 | Object.keys:0.04s | enum/milli:4279.00 | for..in/milli:3120.10 | sample-key:"k26496774"
+type:intstr | key-length:9 | key-prefix:"k" | unique-keys:149740 | Object.keys:0.03s | enum/milli:4991.33 | for..in/milli:2936.08 | sample-key:"k39157823"
+type:intstr | key-length:9 | key-prefix:"k" | unique-keys:149738 | Object.keys:0.04s | enum/milli:4046.97 | for..in/milli:870.57 | sample-key:"k32926760"
+--
+type:intstr | key-length:10 | key-prefix:"k" | unique-keys:149982 | Object.keys:0.03s | enum/milli:4838.13 | for..in/milli:3124.63 | sample-key:"k197654003"
+type:intstr | key-length:10 | key-prefix:"k" | unique-keys:149975 | Object.keys:0.03s | enum/milli:4837.90 | for..in/milli:3060.71 | sample-key:"k117000684"
+type:intstr | key-length:10 | key-prefix:"k" | unique-keys:149980 | Object.keys:0.03s | enum/milli:4999.33 | for..in/milli:2940.78 | sample-key:"k189002561"
+type:intstr | key-length:10 | key-prefix:"k" | unique-keys:149971 | Object.keys:0.04s | enum/milli:4284.89 | for..in/milli:2777.24 | sample-key:"k212174038"
+type:intstr | key-length:10 | key-prefix:"k" | unique-keys:149976 | Object.keys:0.03s | enum/milli:5171.59 | for..in/milli:3060.73 | sample-key:"k112610076"
+--
+type:intstr | key-length:11 | key-prefix:"k" | unique-keys:149995 | Object.keys:0.04s | enum/milli:4053.92 | for..in/milli:2941.08 | sample-key:"k3922680311"
+type:intstr | key-length:11 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4838.68 | for..in/milli:2884.60 | sample-key:"k2952553106"
+type:intstr | key-length:11 | key-prefix:"k" | unique-keys:149995 | Object.keys:0.03s | enum/milli:4545.30 | for..in/milli:3488.26 | sample-key:"k1201023775"
+type:intstr | key-length:11 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4545.39 | for..in/milli:2678.54 | sample-key:"k9327921949"
+type:intstr | key-length:11 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4687.47 | for..in/milli:2999.98 | sample-key:"k2408240489"
+--
+type:intstr | key-length:12 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4545.39 | for..in/milli:2777.74 | sample-key:"k72380515372"
+type:intstr | key-length:12 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.04s | enum/milli:3409.00 | for..in/milli:2631.51 | sample-key:"k37043524513"
+type:intstr | key-length:12 | key-prefix:"k" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:3260.87 | sample-key:"k16984085111"
+type:intstr | key-length:12 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4838.65 | for..in/milli:2999.96 | sample-key:"k42152646804"
+type:intstr | key-length:12 | key-prefix:"k" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:3061.22 | sample-key:"k27072212512"
+--
+type:intstr | key-length:13 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4687.41 | for..in/milli:2884.56 | sample-key:"k190490199219"
+type:intstr | key-length:13 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4687.44 | for..in/milli:2941.14 | sample-key:"k126964543812"
+type:intstr | key-length:13 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4545.36 | for..in/milli:3191.43 | sample-key:"k389022929938"
+type:intstr | key-length:13 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.04s | enum/milli:4285.66 | for..in/milli:2830.15 | sample-key:"k243102890624"
+type:intstr | key-length:13 | key-prefix:"k" | unique-keys:149993 | Object.keys:0.04s | enum/milli:4166.47 | for..in/milli:2999.86 | sample-key:"k118114815911"
+--
+type:intstr | key-length:14 | key-prefix:"k" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:3260.87 | sample-key:"k3650999913650"
+type:intstr | key-length:14 | key-prefix:"k" | unique-keys:149992 | Object.keys:0.03s | enum/milli:4838.45 | for..in/milli:3061.06 | sample-key:"k3987377402398"
+type:intstr | key-length:14 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.04s | enum/milli:4285.60 | for..in/milli:3191.40 | sample-key:"k1809745355180"
+type:intstr | key-length:14 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.04s | enum/milli:4285.60 | for..in/milli:3061.14 | sample-key:"k3457985960345"
+type:intstr | key-length:14 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4545.39 | for..in/milli:2999.96 | sample-key:"k2599406520259"
+--
+type:hex | key-length:7 | key-prefix:"1" | unique-keys:149236 | Object.keys:3.72s | enum/milli:40.15 | for..in/milli:40.55 | sample-key:"1492105"
+type:hex | key-length:7 | key-prefix:"1" | unique-keys:149269 | Object.keys:3.69s | enum/milli:40.50 | for..in/milli:40.73 | sample-key:"19ec786"
+type:hex | key-length:7 | key-prefix:"1" | unique-keys:149290 | Object.keys:3.63s | enum/milli:41.10 | for..in/milli:40.71 | sample-key:"11fb306"
+type:hex | key-length:7 | key-prefix:"1" | unique-keys:149308 | Object.keys:3.63s | enum/milli:41.13 | for..in/milli:40.38 | sample-key:"1be407e"
+type:hex | key-length:7 | key-prefix:"1" | unique-keys:149245 | Object.keys:3.55s | enum/milli:42.02 | for..in/milli:41.96 | sample-key:"188ec1a"
+--
+type:hex | key-length:8 | key-prefix:"1" | unique-keys:149943 | Object.keys:2.35s | enum/milli:63.83 | for..in/milli:64.44 | sample-key:"1cba338b"
+type:hex | key-length:8 | key-prefix:"1" | unique-keys:149949 | Object.keys:2.38s | enum/milli:62.95 | for..in/milli:63.11 | sample-key:"187f8589"
+type:hex | key-length:8 | key-prefix:"1" | unique-keys:149960 | Object.keys:2.44s | enum/milli:61.53 | for..in/milli:61.26 | sample-key:"1de24c2d"
+type:hex | key-length:8 | key-prefix:"1" | unique-keys:149953 | Object.keys:2.47s | enum/milli:60.81 | for..in/milli:63.54 | sample-key:"12373d98"
+type:hex | key-length:8 | key-prefix:"1" | unique-keys:149956 | Object.keys:2.27s | enum/milli:66.06 | for..in/milli:64.92 | sample-key:"1be8742e"
+--
+type:hex | key-length:9 | key-prefix:"1" | unique-keys:150000 | Object.keys:1.54s | enum/milli:97.40 | for..in/milli:95.48 | sample-key:"1e8f8675b"
+type:hex | key-length:9 | key-prefix:"1" | unique-keys:149994 | Object.keys:1.60s | enum/milli:93.98 | for..in/milli:94.16 | sample-key:"13daff93d"
+type:hex | key-length:9 | key-prefix:"1" | unique-keys:149999 | Object.keys:1.56s | enum/milli:96.34 | for..in/milli:94.04 | sample-key:"152173c31"
+type:hex | key-length:9 | key-prefix:"1" | unique-keys:149998 | Object.keys:1.50s | enum/milli:99.93 | for..in/milli:97.78 | sample-key:"19a61da05"
+type:hex | key-length:9 | key-prefix:"1" | unique-keys:149999 | Object.keys:1.53s | enum/milli:98.17 | for..in/milli:97.97 | sample-key:"1ebe8651a"
+--
+type:hex | key-length:10 | key-prefix:"1" | unique-keys:149997 | Object.keys:1.55s | enum/milli:97.02 | for..in/milli:94.16 | sample-key:"132b021f43"
+type:hex | key-length:10 | key-prefix:"1" | unique-keys:149998 | Object.keys:1.50s | enum/milli:100.07 | for..in/milli:96.90 | sample-key:"19df5c47c9"
+type:hex | key-length:10 | key-prefix:"1" | unique-keys:149998 | Object.keys:1.61s | enum/milli:93.34 | for..in/milli:93.98 | sample-key:"170d0183e7"
+type:hex | key-length:10 | key-prefix:"1" | unique-keys:149994 | Object.keys:1.58s | enum/milli:94.75 | for..in/milli:92.93 | sample-key:"160f7e1296"
+type:hex | key-length:10 | key-prefix:"1" | unique-keys:149998 | Object.keys:1.60s | enum/milli:93.81 | for..in/milli:93.75 | sample-key:"1829a95778"
+--
+type:hex | key-length:11 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4687.47 | for..in/milli:3124.98 | sample-key:"1fb6f46bbfb"
+type:hex | key-length:11 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4999.97 | for..in/milli:2830.17 | sample-key:"1fe5c1f09fe"
+type:hex | key-length:11 | key-prefix:"1" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4545.39 | for..in/milli:2830.15 | sample-key:"169eb467369"
+type:hex | key-length:11 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.04s | enum/milli:3749.97 | for..in/milli:2830.17 | sample-key:"12e8dc9e82e"
+type:hex | key-length:11 | key-prefix:"1" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4999.93 | for..in/milli:3124.96 | sample-key:"122fd8ac122"
+--
+type:hex | key-length:12 | key-prefix:"1" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4838.65 | for..in/milli:2678.54 | sample-key:"1176d4e53176"
+type:hex | key-length:12 | key-prefix:"1" | unique-keys:149994 | Object.keys:0.03s | enum/milli:4687.31 | for..in/milli:3061.10 | sample-key:"159975227599"
+type:hex | key-length:12 | key-prefix:"1" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4411.68 | for..in/milli:2777.72 | sample-key:"1c2e85968c2e"
+type:hex | key-length:12 | key-prefix:"1" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4411.68 | for..in/milli:2884.56 | sample-key:"1bd6dcb28bd6"
+type:hex | key-length:12 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4687.47 | for..in/milli:3061.20 | sample-key:"1be143e64be1"
+--
+type:hex | key-length:13 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4411.74 | for..in/milli:2499.98 | sample-key:"1ae7e8cacae7e"
+type:hex | key-length:13 | key-prefix:"1" | unique-keys:149998 | Object.keys:0.04s | enum/milli:3658.49 | for..in/milli:2238.78 | sample-key:"141cf741241cf"
+type:hex | key-length:13 | key-prefix:"1" | unique-keys:149996 | Object.keys:0.04s | enum/milli:3488.28 | for..in/milli:2419.29 | sample-key:"19fbf679a9fbf"
+type:hex | key-length:13 | key-prefix:"1" | unique-keys:149998 | Object.keys:0.04s | enum/milli:4166.61 | for..in/milli:2999.96 | sample-key:"1cfbe512fcfbe"
+type:hex | key-length:13 | key-prefix:"1" | unique-keys:149996 | Object.keys:0.03s | enum/milli:4838.58 | for..in/milli:3191.40 | sample-key:"1f0c7156f0c71"
+--
+type:hex | key-length:14 | key-prefix:"1" | unique-keys:149993 | Object.keys:0.03s | enum/milli:4545.24 | for..in/milli:3191.34 | sample-key:"1b1ef6dc8b1ef6"
+type:hex | key-length:14 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4999.97 | for..in/milli:3333.31 | sample-key:"18839eca88839e"
+type:hex | key-length:14 | key-prefix:"1" | unique-keys:149994 | Object.keys:0.03s | enum/milli:5356.93 | for..in/milli:3061.10 | sample-key:"11308afde1308a"
+type:hex | key-length:14 | key-prefix:"1" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5357.04 | for..in/milli:3061.16 | sample-key:"1d35b8014d35b8"
+type:hex | key-length:14 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4999.97 | for..in/milli:3409.07 | sample-key:"1d1749a71d1749"
+--
+type:hex | key-length:7 | key-prefix:"k" | unique-keys:149314 | Object.keys:0.03s | enum/milli:5530.15 | for..in/milli:3555.10 | sample-key:"k3abb23"
+type:hex | key-length:7 | key-prefix:"k" | unique-keys:149279 | Object.keys:0.04s | enum/milli:3928.39 | for..in/milli:2927.04 | sample-key:"ke81c82"
+type:hex | key-length:7 | key-prefix:"k" | unique-keys:149323 | Object.keys:0.03s | enum/milli:4391.85 | for..in/milli:2817.42 | sample-key:"k523c69"
+type:hex | key-length:7 | key-prefix:"k" | unique-keys:149296 | Object.keys:0.03s | enum/milli:4976.53 | for..in/milli:3245.57 | sample-key:"kefe526"
+type:hex | key-length:7 | key-prefix:"k" | unique-keys:149296 | Object.keys:0.03s | enum/milli:4524.12 | for..in/milli:3110.33 | sample-key:"kcf209e"
+--
+type:hex | key-length:8 | key-prefix:"k" | unique-keys:149962 | Object.keys:0.03s | enum/milli:5171.10 | for..in/milli:3124.21 | sample-key:"kc3119a3"
+type:hex | key-length:8 | key-prefix:"k" | unique-keys:149956 | Object.keys:0.03s | enum/milli:5355.57 | for..in/milli:3259.91 | sample-key:"kd949bcd"
+type:hex | key-length:8 | key-prefix:"k" | unique-keys:149962 | Object.keys:0.03s | enum/milli:5355.79 | for..in/milli:3060.45 | sample-key:"k2e5a775"
+type:hex | key-length:8 | key-prefix:"k" | unique-keys:149952 | Object.keys:0.03s | enum/milli:4837.16 | for..in/milli:3259.83 | sample-key:"k32d4ab9"
+type:hex | key-length:8 | key-prefix:"k" | unique-keys:149943 | Object.keys:0.03s | enum/milli:5170.45 | for..in/milli:3190.28 | sample-key:"kdf4a502"
+--
+type:hex | key-length:9 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5357.11 | for..in/milli:3488.35 | sample-key:"k7adf4657"
+type:hex | key-length:9 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.03s | enum/milli:5357.00 | for..in/milli:2999.92 | sample-key:"k4195e334"
+type:hex | key-length:9 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5172.38 | for..in/milli:3571.40 | sample-key:"k40f7af17"
+type:hex | key-length:9 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4999.90 | for..in/milli:3191.43 | sample-key:"keccc1c65"
+type:hex | key-length:9 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.03s | enum/milli:5357.00 | for..in/milli:3124.92 | sample-key:"k9a2f3ca0"
+--
+type:hex | key-length:10 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.03s | enum/milli:4687.38 | for..in/milli:2884.54 | sample-key:"k2ae0159b2"
+type:hex | key-length:10 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5172.38 | for..in/milli:3191.47 | sample-key:"k5fb4e9c85"
+type:hex | key-length:10 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4411.71 | for..in/milli:3409.05 | sample-key:"k5aa826225"
+type:hex | key-length:10 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4838.68 | for..in/milli:3333.31 | sample-key:"k9b4179119"
+type:hex | key-length:10 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.03s | enum/milli:4999.87 | for..in/milli:3124.92 | sample-key:"k35d7a79c3"
+--
+type:hex | key-length:11 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:5172.34 | for..in/milli:2999.96 | sample-key:"k6fbcba066f"
+type:hex | key-length:11 | key-prefix:"k" | unique-keys:149995 | Object.keys:0.03s | enum/milli:4999.83 | for..in/milli:3191.38 | sample-key:"kaaba225faa"
+type:hex | key-length:11 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5172.31 | for..in/milli:2941.12 | sample-key:"k3e3ccba03e"
+type:hex | key-length:11 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:5172.34 | for..in/milli:3061.18 | sample-key:"k42bc243f42"
+type:hex | key-length:11 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5172.31 | for..in/milli:3260.80 | sample-key:"k15881b9a15"
+--
+type:hex | key-length:12 | key-prefix:"k" | unique-keys:149996 | Object.keys:0.03s | enum/milli:5172.28 | for..in/milli:3409.00 | sample-key:"kb4abab1ab4a"
+type:hex | key-length:12 | key-prefix:"k" | unique-keys:149995 | Object.keys:0.03s | enum/milli:4999.83 | for..in/milli:3333.22 | sample-key:"k4d8b7aaa4d8"
+type:hex | key-length:12 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4838.68 | for..in/milli:3260.85 | sample-key:"k5e62518f5e6"
+type:hex | key-length:12 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5357.04 | for..in/milli:3409.02 | sample-key:"ke9badb09e9b"
+type:hex | key-length:12 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5172.31 | for..in/milli:3061.16 | sample-key:"kb587a4acb58"
+--
+type:hex | key-length:13 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4999.93 | for..in/milli:3260.83 | sample-key:"k86d2170186d2"
+type:hex | key-length:13 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5172.31 | for..in/milli:3333.27 | sample-key:"kb85b2875b85b"
+type:hex | key-length:13 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5357.11 | for..in/milli:3488.35 | sample-key:"k3dfea9763dfe"
+type:hex | key-length:13 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:5357.04 | for..in/milli:3488.30 | sample-key:"k440d62cf440d"
+type:hex | key-length:13 | key-prefix:"k" | unique-keys:149998 | Object.keys:0.03s | enum/milli:5172.34 | for..in/milli:3061.18 | sample-key:"k38ce239338ce"
+--
+type:hex | key-length:14 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4999.90 | for..in/milli:3571.36 | sample-key:"k94fa2b2094fa2"
+type:hex | key-length:14 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4999.90 | for..in/milli:3571.36 | sample-key:"k47f1117f47f11"
+type:hex | key-length:14 | key-prefix:"k" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4687.41 | for..in/milli:3333.27 | sample-key:"k232c4086232c4"
+type:hex | key-length:14 | key-prefix:"k" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4687.50 | for..in/milli:3333.33 | sample-key:"kd1d601e0d1d60"
+type:hex | key-length:14 | key-prefix:"k" | unique-keys:149999 | Object.keys:0.03s | enum/milli:5555.52 | for..in/milli:3409.07 | sample-key:"k2b8ab4cf2b8ab"
+--

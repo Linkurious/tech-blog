@@ -1,3 +1,100 @@
+type:string | key-length:7 | key-prefix:"1" | unique-keys:149964 | Object.keys:0.03s | enum/milli:5171.17 | for..in/milli:2883.92 | sample-key:"1gyhlfg"
+type:string | key-length:7 | key-prefix:"1" | unique-keys:149963 | Object.keys:0.03s | enum/milli:5355.82 | for..in/milli:2999.26 | sample-key:"1hgclyb"
+type:string | key-length:7 | key-prefix:"1" | unique-keys:149965 | Object.keys:0.03s | enum/milli:4837.58 | for..in/milli:2541.78 | sample-key:"1nnhlom"
+type:string | key-length:7 | key-prefix:"1" | unique-keys:149955 | Object.keys:0.03s | enum/milli:5170.86 | for..in/milli:2999.10 | sample-key:"1xgtbzi"
+type:string | key-length:7 | key-prefix:"1" | unique-keys:149960 | Object.keys:0.03s | enum/milli:5171.03 | for..in/milli:2883.85 | sample-key:"1ahffge"
+--
+type:string | key-length:8 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:2777.78 | sample-key:"1gedzqyb"
+type:string | key-length:8 | key-prefix:"1" | unique-keys:149998 | Object.keys:0.03s | enum/milli:4545.39 | for..in/milli:2678.54 | sample-key:"1vxbyble"
+type:string | key-length:8 | key-prefix:"1" | unique-keys:149999 | Object.keys:0.03s | enum/milli:4838.68 | for..in/milli:3260.85 | sample-key:"1exwmgwi"
+type:string | key-length:8 | key-prefix:"1" | unique-keys:149997 | Object.keys:0.03s | enum/milli:4838.61 | for..in/milli:2631.53 | sample-key:"1djkpycp"
+type:string | key-length:8 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:2678.57 | sample-key:"1fotianh"
+--
+type:string | key-length:9 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3409.09 | for..in/milli:2678.57 | sample-key:"1qkskofio"
+type:string | key-length:9 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5357.14 | for..in/milli:2941.18 | sample-key:"1bvshylyn"
+type:string | key-length:9 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:2586.21 | sample-key:"1xplnovdh"
+type:string | key-length:9 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:2631.58 | sample-key:"1eqjzzdhy"
+type:string | key-length:9 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:2727.27 | sample-key:"1mkhciffo"
+--
+type:string | key-length:10 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2941.18 | sample-key:"1flzhosgmk"
+type:string | key-length:10 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:2830.19 | sample-key:"1ugpzhaaws"
+type:string | key-length:10 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:3061.22 | sample-key:"1jinmgzeqg"
+type:string | key-length:10 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2542.37 | sample-key:"1sjckvkwih"
+type:string | key-length:10 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:2777.78 | sample-key:"1sdnkxixve"
+--
+type:string | key-length:11 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:2777.78 | sample-key:"1baznfmdynx"
+type:string | key-length:11 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:2941.18 | sample-key:"1xtpliqmelc"
+type:string | key-length:11 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5357.14 | for..in/milli:2777.78 | sample-key:"1mznxwnrstr"
+type:string | key-length:11 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2678.57 | sample-key:"1vtijdfwvmf"
+type:string | key-length:11 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4687.50 | for..in/milli:2586.21 | sample-key:"1hfkbtktttw"
+--
+type:string | key-length:12 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:3000.00 | sample-key:"1ilcusewdlkk"
+type:string | key-length:12 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4687.50 | for..in/milli:2586.21 | sample-key:"1spykrisures"
+type:string | key-length:12 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5555.56 | for..in/milli:2830.19 | sample-key:"1hiaplhaohbh"
+type:string | key-length:12 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:2586.21 | sample-key:"1rsilultsiwn"
+type:string | key-length:12 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:2727.27 | sample-key:"1fjrghlwbzwa"
+--
+type:string | key-length:13 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2586.21 | sample-key:"1ghdhywwkpfkw"
+type:string | key-length:13 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:3000.00 | sample-key:"1slwtcouxrfhr"
+type:string | key-length:13 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:3125.00 | sample-key:"1jcpweoqdzzyj"
+type:string | key-length:13 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:3125.00 | sample-key:"1aqlmllrwxhhi"
+type:string | key-length:13 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:2777.78 | sample-key:"1jalnikuhzrfy"
+--
+type:string | key-length:14 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:2777.78 | sample-key:"1igjowipcasrhp"
+type:string | key-length:14 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5357.14 | for..in/milli:3191.49 | sample-key:"1frjemknhbwsey"
+type:string | key-length:14 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:3061.22 | sample-key:"1sjjmgomjhpybg"
+type:string | key-length:14 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:2586.21 | sample-key:"1lxkfhumbhkkng"
+type:string | key-length:14 | key-prefix:"1" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4285.71 | for..in/milli:2884.62 | sample-key:"1sxuhideibmujb"
+--
+--
+type:string | key-length:7 | key-prefix:"" | unique-keys:149995 | Object.keys:0.04s | enum/milli:3749.88 | for..in/milli:2542.29 | sample-key:"wggjplp"
+type:string | key-length:7 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:3125.00 | sample-key:"pusekcg"
+type:string | key-length:7 | key-prefix:"" | unique-keys:149997 | Object.keys:0.04s | enum/milli:3947.29 | for..in/milli:2777.72 | sample-key:"uhgawwf"
+type:string | key-length:7 | key-prefix:"" | unique-keys:149997 | Object.keys:0.04s | enum/milli:4166.58 | for..in/milli:2830.13 | sample-key:"iwkofhj"
+type:string | key-length:7 | key-prefix:"" | unique-keys:149995 | Object.keys:0.03s | enum/milli:4545.30 | for..in/milli:2586.12 | sample-key:"atlqpqb"
+--
+type:string | key-length:8 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4166.67 | for..in/milli:3409.09 | sample-key:"cgwcwvyj"
+type:string | key-length:8 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5357.14 | for..in/milli:2459.02 | sample-key:"vecgbejm"
+type:string | key-length:8 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5555.56 | for..in/milli:2500.00 | sample-key:"bmnfslue"
+type:string | key-length:8 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5555.56 | for..in/milli:3125.00 | sample-key:"kcqufauk"
+type:string | key-length:8 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3488.37 | for..in/milli:3000.00 | sample-key:"rpptyhpw"
+--
+type:string | key-length:9 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:2631.58 | sample-key:"elrgcddcs"
+type:string | key-length:9 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:2830.19 | sample-key:"fjxypcmio"
+type:string | key-length:9 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5357.14 | for..in/milli:2380.95 | sample-key:"njefudtgb"
+type:string | key-length:9 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4285.71 | for..in/milli:2830.19 | sample-key:"ypkbtiqub"
+type:string | key-length:9 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4411.76 | for..in/milli:3125.00 | sample-key:"ufuuqenoj"
+--
+type:string | key-length:10 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3947.37 | for..in/milli:2941.18 | sample-key:"fzvheqaztj"
+type:string | key-length:10 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4285.71 | for..in/milli:3125.00 | sample-key:"wifwczfhrp"
+type:string | key-length:10 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3846.15 | for..in/milli:1282.05 | sample-key:"btlcufexkw"
+type:string | key-length:10 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4687.50 | for..in/milli:2884.62 | sample-key:"ojxtuqqpat"
+type:string | key-length:10 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:3061.22 | sample-key:"ucgymgdlom"
+--
+type:string | key-length:11 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3409.09 | for..in/milli:2112.68 | sample-key:"uuyvviqqdzc"
+type:string | key-length:11 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3333.33 | for..in/milli:2830.19 | sample-key:"ptbwfpzrien"
+type:string | key-length:11 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4687.50 | for..in/milli:2419.35 | sample-key:"xrwjnwdmbdd"
+type:string | key-length:11 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:3409.09 | sample-key:"lilvlmufppy"
+type:string | key-length:11 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:2941.18 | sample-key:"koanlujsbdr"
+--
+type:string | key-length:12 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2777.78 | sample-key:"qpzpnvqrdpne"
+type:string | key-length:12 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4166.67 | for..in/milli:2941.18 | sample-key:"yawalizpjqbd"
+type:string | key-length:12 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2727.27 | sample-key:"gagucwxpynnc"
+type:string | key-length:12 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:2941.18 | sample-key:"ohxnzoxqmcws"
+type:string | key-length:12 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5357.14 | for..in/milli:2830.19 | sample-key:"wzhpybffpsbo"
+--
+type:string | key-length:13 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5000.00 | for..in/milli:2419.35 | sample-key:"ymrmsllfeynfw"
+type:string | key-length:13 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4285.71 | for..in/milli:2631.58 | sample-key:"oukvendbcgqom"
+type:string | key-length:13 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3488.37 | for..in/milli:3191.49 | sample-key:"psczaazomdrbj"
+type:string | key-length:13 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:3125.00 | sample-key:"myxzdeehprhvm"
+type:string | key-length:13 | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:3333.33 | for..in/milli:2884.62 | sample-key:"gnthipxovpzvt"
+--
+type:string | key-length:14 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4687.50 | for..in/milli:3125.00 | sample-key:"babqpeugxlgrna"
+type:string | key-length:14 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:3061.22 | sample-key:"jmnrfyapsusgsi"
+type:string | key-length:14 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:2830.19 | sample-key:"zxiooknxmzkhwl"
+type:string | key-length:14 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4838.71 | for..in/milli:3333.33 | sample-key:"seuqebzhucbpzb"
+type:string | key-length:14 | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:4545.45 | for..in/milli:2459.02 | sample-key:"zwlddrpdtxcndu"
+--
 type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.05s | enum/milli:3125.00 | for..in/milli:2631.58 | sample-key:1244587.1495000273
 type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.04s | enum/milli:4166.67 | for..in/milli:2884.62 | sample-key:690344412.0904746
 type:number | key-length:null | key-prefix:"" | unique-keys:150000 | Object.keys:0.03s | enum/milli:5172.41 | for..in/milli:3125.00 | sample-key:171495136.69194487

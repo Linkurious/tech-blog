@@ -11,8 +11,8 @@ var VERBOSE = false;
 
 // constants
 var MB_IN_BYTES = 1024 * 1024;
-var MAX_32BITS = Math.pow(2, 32);
-
+var MAX_INTEGER = Math.pow(2, 53) - 1;
+var LETTERS = 'abcdefghijklmnopqrstuvwxyz';
 var main = function(iterations, keyType, keyLength, keyPrefix) {
   // internals
   var map = {};
@@ -22,7 +22,7 @@ var main = function(iterations, keyType, keyLength, keyPrefix) {
   var sampleKey = null;
 
   var randomInt = function () {
-    return process.hrtime()[1] + Math.floor(Math.random() * MAX_32BITS);
+    return Math.floor(Math.random() * MAX_INTEGER);
   };
 
   var randomHex = function () {
@@ -45,15 +45,24 @@ var main = function(iterations, keyType, keyLength, keyPrefix) {
     return (keyPrefix + key).substr(0, keyLength);
   };
 
+  var randomString = function() {
+    var key = '';
+    while (key.length < keyLength) {
+      key += LETTERS[Math.floor(Math.random()*LETTERS.length)]
+    }
+    return (keyPrefix + key).substr(0, keyLength);
+  };
+
   switch (keyType) {
     case 'int': keyFunc = randomInt; break;
     case 'number': keyFunc = randomNumber; break;
     case 'hex': keyFunc = randomHex; break;
     case 'intstr': keyFunc = randomIntAsString; break;
+    case 'string': keyFunc = randomString; break;
     default: throw new Error(`unknown key-type: "${keyType}"`)
   }
 
-  if (keyType !== 'hex' && keyType !== 'intstr') {
+  if (keyType !== 'hex' && keyType !== 'intstr' && keyType !== 'string') {
     keyLength = null;
     keyPrefix = '';
   }
@@ -112,17 +121,28 @@ var main = function(iterations, keyType, keyLength, keyPrefix) {
 
 //main(ITERATIONS, KEY_TYPE, KEY_LENGTH, KEY_PREFIX);
 
-['number', 'int', 'intstr', 'hex'].forEach(function(type) {
-  var prefixes = type === 'hex' ? ['1', 'k'] : type === 'intstr' ? ['', 'k'] : [''];
-  var keyLenghts = type === 'hex' || type === 'intstr' ? [7, 8, 9, 10, 11, 12, 13, 14] : [null];
+['string', 'number', 'int', 'intstr', 'hex'].forEach(function(type) {
+  var prefixes;
+  switch(type) {
+    case 'hex'   : prefixes = ['1', 'k']; break;
+    case 'string': prefixes = ['1', '']; break;
+    case 'intstr': prefixes = ['', 'k']; break;
+    default: prefixes = [''];
+  }
+
+  var keyLenghts = (type === 'string' || type === 'hex' || type === 'intstr')
+    ? [7, 8, 9, 10, 11, 12, 13, 14]
+    : [null];
 
   // for significant results: 5 runs
- prefixes.forEach(function (prefix) {
-   keyLenghts.forEach(function(keyLength) {
-     for (var i=0; i<5; ++i) {
-       main(150000, type, keyLength, prefix);
-     }
+  prefixes.forEach(function(prefix) {
+    keyLenghts.forEach(function(keyLength) {
+      for (var i=0; i<5; ++i) {
+        main(150000, type, keyLength, prefix);
+      }
+      console.log('--');
     });
   });
-  console.log('--')
+
+  console.log('==');
 });

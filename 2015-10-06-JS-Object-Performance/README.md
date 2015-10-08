@@ -3,7 +3,7 @@ Benchmarking: using JavaScript objects as Maps
 
 In most programming languages, maps are used to index values by keys. Before ES6, JavaScript lacked a dedicated object for this usage, it now has the ES6 [`Map`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map) class.
 
-For environments where ES6 Maps are not available (some older browsers), we wanted to measure the read and write peformances of JavaScript objects when used as maps with lost of values (more than 64k values). The results are quite surprising and hold strange corner cases.
+For environments where ES6 Maps are not available (some older browsers), we wanted to measure the read and write peformances of JavaScript objects when used as maps with lots of values (more than 64k keys). The results are quite surprising and hold strange corner cases.
 
 Benchmark
 ---------

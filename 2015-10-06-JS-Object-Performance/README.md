@@ -1,4 +1,4 @@
-Benchmarking: usaging JavaScript objects as Maps
+Benchmarking: using JavaScript objects as Maps
 ================================================
 
 In most programming languages, maps are used to index values by keys. Before ES6, JavaScript lacked a dedicated object for this usage, it now has the ES6 [`Map`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map) class.

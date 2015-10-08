@@ -51,4 +51,4 @@ Conclusion
  * `Object.keys`: SpiderMonkey is **~10 times faster** than V8 ;
  * using integer casted into strings as object keys is a bad idea in SpiderMonkey and V8;
  * V8 has a catastrophic corner case with integer-cast-to-string keys that are 10 characters long;
- * A way to make sure these corner-cases are never hit is to concatenate a letter in front of object keys before settings then when performances are critical and key values are not predictibles.
+ * A way to make sure these corner-cases are never hit is to concatenate a letter in front of keys before settings them.

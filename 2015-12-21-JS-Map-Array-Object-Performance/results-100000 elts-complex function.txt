@@ -1,0 +1,4 @@
+Iterating over 100000 elements using function ComplexFunction:
+* Array: 113106 ms (random element: {"x":0.276110069360584,"y":0.27104516164399683}).
+* Object: 170146 ms (random element: {"x":0.8773915525525808,"y":0.21687252237461507}).
+* Map: 127752 ms (random element: {"x":0.44625452416948974,"y":0.9189098789356649}).
